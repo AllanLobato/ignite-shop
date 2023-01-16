@@ -704,6 +704,18 @@ doctrine@^3.0.0:
   dependencies:
     esutils "^2.0.2"
 
+embla-carousel-react@^7.0.5:
+  version "7.0.5"
+  resolved "https://registry.yarnpkg.com/embla-carousel-react/-/embla-carousel-react-7.0.5.tgz#c6a079e382432335e34adb16bb11558df047760c"
+  integrity sha512-qhw980gKj7G+O5d3WSwj0TyhcbpGP3DqJPiAatt1t3wEEcZqn7csaIfLh4e1N/0kna9sZfZZRzz+//NSrUodSg==
+  dependencies:
+    embla-carousel "7.0.5"
+
+embla-carousel@7.0.5:
+  version "7.0.5"
+  resolved "https://registry.yarnpkg.com/embla-carousel/-/embla-carousel-7.0.5.tgz#b43e590c072d06a5b11d4ce19d024f5f07a62862"
+  integrity sha512-loRcu0La0F7bhEMwbvgpi14iaaIEdwacH1xoplnaYfwN4KMgECkiuLgu4lx+v6MYd6lSpg/bw7ZxEuLUwYjavg==
+
 emoji-regex@^9.2.2:
   version "9.2.2"
   resolved "https://registry.yarnpkg.com/emoji-regex/-/emoji-regex-9.2.2.tgz#840c8803b0d8047f4ff0cf963176b32d4ef3ed72"
@@ -1565,11 +1577,6 @@ json5@^1.0.1:
   dependencies:
     array-includes "^3.1.5"
     object.assign "^4.1.3"
-
-keen-slider@^6.8.5:
-  version "6.8.5"
-  resolved "https://registry.yarnpkg.com/keen-slider/-/keen-slider-6.8.5.tgz#1d96ff3ab77f195fc6cacd2e5aecc35d8ceb9702"
-  integrity sha512-9yoosfffgTCrkmbX8kCUMWsn9KDgPSkxBof5/0yXde001D1xao7i9ppfxQCCK0MLnoCa+Rdssby0jFbTTUM4rw==
 
 language-subtag-registry@~0.3.2:
   version "0.3.22"
