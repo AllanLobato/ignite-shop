@@ -1,36 +1,30 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Desafio 04 - Ignite Shop 2.0
 
-## Getting Started
+## ✨ Tecnologias
 
-First, run the development server:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+- [Next.js](https://nextjs.org)
+- [Stripe](https://stripe.com)
+- [ReactJS](https://reactjs.org)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Stitches](https://stitches.dev)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🖼️ Layout
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+### Home
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+  ![image](https://user-images.githubusercontent.com/67288620/234008827-ce4fa6b6-c5fd-45be-8a2a-55cffa17bff0.png)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+### Product
+![image](https://user-images.githubusercontent.com/67288620/234008989-1d79e383-88d6-4e04-87b3-9eeb1c9f0ddb.png)
 
-To learn more about Next.js, take a look at the following resources:
+### Cart
+![image](https://user-images.githubusercontent.com/67288620/234009057-c03dad21-b396-41a3-867f-fa18bc524077.png)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Success
+![image](https://user-images.githubusercontent.com/67288620/234009101-f043f91d-d851-4c58-89cb-0da26951ea0c.png)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
